@@ -12,3 +12,4 @@ sed -i 's/"MS Shell Dlg"="Gulim"/"MS Shell Dlg"="NanumGothic"/' ~/.wine/system.r
 sed -i 's/"MS Shell Dlg 2"="Tahoma"/"MS Shell Dlg 2"="NanumGothic"/' ~/.wine/system.reg
 wget http://app.pc.kakao.com/talk/win32/KakaoTalk_Setup.exe
 wine ./KakaoTalk_Setup.exe
+
